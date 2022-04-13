@@ -1,0 +1,24 @@
+{
+  "name": "ejercicio-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomasSkylab/2022-04-W2EX2-tomas-sanchez.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomasSkylab/2022-04-W2EX2-tomas-sanchez/issues"
+  },
+  "homepage": "https://github.com/TomasSkylab/2022-04-W2EX2-tomas-sanchez#readme",
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "jest": "^27.5.1"
+  }
+}
